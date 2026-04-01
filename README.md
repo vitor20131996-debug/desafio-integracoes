@@ -8,3 +8,4 @@
 
 npm install
 npm start
+Para rodar o projeto utilize o comando node src/index.js
