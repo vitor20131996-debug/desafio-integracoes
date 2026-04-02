@@ -17,7 +17,7 @@ async function main() {
     for (const user of users) {
       stats.total++;
 
-      if (user.dob.age < 18) {
+      if (user.dob.age < 36) {
         stats.ignored++;
         continue;
       }
